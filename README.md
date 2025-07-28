@@ -14,17 +14,13 @@ Este projeto tem como objetivo analisar os fatores que influenciam a evasão de 
 
 ---
 
-## 🚀 Como Executar
-git clone https://github.com/seu-usuario/telecom-x-churn.git
-
-
 ### Pré-requisitos
 
 - Python 3.7 ou superior
 - Jupyter Notebook ou Google Colab
 - Bibliotecas: pandas, numpy, matplotlib, seaborn
 
-  ## 📚 Bibliotecas
+## 📚 Bibliotecas
 
 ✅ pandas
 ✅ requests
