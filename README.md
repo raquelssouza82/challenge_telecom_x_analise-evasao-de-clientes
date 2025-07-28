@@ -32,10 +32,15 @@ Este projeto tem como objetivo analisar os fatores que influenciam a evasão de 
 A análise cobre:
 
 *Perfil do churn baseado no tempo de permanência (tenure)
+
 *Impacto do tipo de contrato na evasão
+
 *Influência do perfil familiar (parceiro e dependentes)
+
 *Relação entre serviços contratados e churn
+
 *Efeito da forma de pagamento e uso da fatura digital
+
 
 Principais conclusões e recomendações estão comentadas no notebook e abaixo para fácil entendimento.
 
