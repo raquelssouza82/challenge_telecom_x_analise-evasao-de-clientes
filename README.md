@@ -24,8 +24,7 @@ git clone https://github.com/seu-usuario/telecom-x-churn.git
 - Jupyter Notebook ou Google Colab
 - Bibliotecas: pandas, numpy, matplotlib, seaborn
 
-  # 📚 Bibliotecas
-Bibliotecas utilizadas
+  ## 📚 Bibliotecas
 
 ✅ pandas
 ✅ requests
